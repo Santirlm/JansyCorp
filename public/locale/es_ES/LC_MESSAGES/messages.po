@@ -1,0 +1,189 @@
+# Spanish translations for JansyCorp
+# Copyright (C) 2026 JansyCorp
+msgid ""
+msgstr ""
+"Project-Id-Version: JansyCorp\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.6\n"
+
+msgid "Inicio"
+msgstr "Inicio"
+
+msgid "Productos"
+msgstr "Productos"
+
+msgid "Nosotros"
+msgstr "Nosotros"
+
+msgid "Ubicaciones"
+msgstr "Ubicaciones"
+
+msgid "Iniciar sesión"
+msgstr "Iniciar sesión"
+
+msgid "Cerrar sesión"
+msgstr "Cerrar sesión"
+
+msgid "Registrarse"
+msgstr "Registrarse"
+
+msgid "Mi perfil"
+msgstr "Mi perfil"
+
+msgid "Carrito"
+msgstr "Carrito"
+
+msgid "Compra con estilo"
+msgstr "Compra con estilo"
+
+msgid "Periféricos custom de alto rendimiento para los más exigentes"
+msgstr "Periféricos custom de alto rendimiento para los más exigentes"
+
+msgid "Ver catálogo"
+msgstr "Ver catálogo"
+
+msgid "Todas las categorías"
+msgstr "Todas las categorías"
+
+msgid "Buscar producto..."
+msgstr "Buscar producto..."
+
+msgid "Ver detalles"
+msgstr "Ver detalles"
+
+msgid "Añadir al carrito"
+msgstr "Añadir al carrito"
+
+msgid "Login para comprar"
+msgstr "Inicia sesión para comprar"
+
+msgid "Agotado"
+msgstr "Agotado"
+
+msgid "En stock"
+msgstr "En stock"
+
+msgid "Tu carrito"
+msgstr "Tu carrito"
+
+msgid "Tu carrito está vacío"
+msgstr "Tu carrito está vacío"
+
+msgid "Explorar productos"
+msgstr "Explorar productos"
+
+msgid "Finalizar compra"
+msgstr "Finalizar compra"
+
+msgid "Resumen del pedido"
+msgstr "Resumen del pedido"
+
+msgid "Subtotal"
+msgstr "Subtotal"
+
+msgid "Envío"
+msgstr "Envío"
+
+msgid "Gratis"
+msgstr "Gratis"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Vaciar carrito"
+msgstr "Vaciar carrito"
+
+msgid "Cambiar foto de perfil"
+msgstr "Cambiar foto de perfil"
+
+msgid "Cambiar contraseña"
+msgstr "Cambiar contraseña"
+
+msgid "Mis pedidos"
+msgstr "Mis pedidos"
+
+msgid "Contraseña actual"
+msgstr "Contraseña actual"
+
+msgid "Nueva contraseña"
+msgstr "Nueva contraseña"
+
+msgid "Confirmar nueva contraseña"
+msgstr "Confirmar nueva contraseña"
+
+msgid "Actualizar contraseña"
+msgstr "Actualizar contraseña"
+
+msgid "Crear cuenta"
+msgstr "Crear cuenta"
+
+msgid "Nombre"
+msgstr "Nombre"
+
+msgid "Apellido"
+msgstr "Apellido"
+
+msgid "Email"
+msgstr "Email"
+
+msgid "Teléfono"
+msgstr "Teléfono"
+
+msgid "Dirección"
+msgstr "Dirección"
+
+msgid "Contraseña"
+msgstr "Contraseña"
+
+msgid "Confirmar contraseña"
+msgstr "Confirmar contraseña"
+
+msgid "Código de verificación"
+msgstr "Código de verificación"
+
+msgid "Introduce el código de la imagen"
+msgstr "Introduce el código de la imagen"
+
+msgid "Sobre JansyCorp"
+msgstr "Sobre JansyCorp"
+
+msgid "Nuestras ubicaciones"
+msgstr "Nuestras ubicaciones"
+
+msgid "Panel de Administración"
+msgstr "Panel de Administración"
+
+msgid "Gestionar Productos"
+msgstr "Gestionar Productos"
+
+msgid "Gestionar Usuarios"
+msgstr "Gestionar Usuarios"
+
+msgid "Nuevo producto"
+msgstr "Nuevo producto"
+
+msgid "Editar producto"
+msgstr "Editar producto"
+
+msgid "Volver al catálogo"
+msgstr "Volver al catálogo"
+
+msgid "Volver al panel"
+msgstr "Volver al panel"
+
+msgid "Idioma"
+msgstr "Idioma"
+
+msgid "Español"
+msgstr "Español"
+
+msgid "English"
+msgstr "English"
